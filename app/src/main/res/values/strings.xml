@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RR vs Volley</string>
+    <string name="by_volley">By Volley</string>
+    <string name="by_rr">By Retrofit RxJava</string>
+    <string name="clear_data">Clear data</string>
+</resources>
