@@ -1,6 +1,6 @@
 # Retrofit combie with RxJava to compare with Volley.
 
-![demo](http://7xu0oh.com1.z0.glb.clouddn.com//public/16-11-24/26384521.jpg)
+![run.gif](http://upload-images.jianshu.io/upload_images/2833342-047c9c86d22438a9.gif?imageMogr2/auto-orient/strip)
 
 By get same data form a same api(zhi hu stories)
 
