@@ -9,7 +9,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
  * Retrofit Single
  */
 public class RetrofitManager {
-    public static final String BASE_URL = "http://news-at.zhihu.com/api/4/news/";
+    static final String BASE_URL = "http://news-at.zhihu.com/api/4/news/";
     private Retrofit retrofit;
     private static RetrofitManager ourInstance = new RetrofitManager();
 

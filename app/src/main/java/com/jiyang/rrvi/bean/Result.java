@@ -14,10 +14,10 @@ public class Result {
     //日期
     @SerializedName("date")
     private String mDate;
-    //新闻
+    //消息
     @SerializedName("stories")
     private List<Stories> mStories;
-    //顶部
+    //顶部消息
     @SerializedName("top_stories")
     private List<TopStories> mTopStories;
 

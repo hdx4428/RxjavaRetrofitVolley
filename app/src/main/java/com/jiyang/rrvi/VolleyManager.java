@@ -23,7 +23,7 @@ public class VolleyManager {
     /**
      * get volley requestQueue
      *
-     * @param context
+     * @param context activity
      * @return volley requestQueue
      */
     public RequestQueue getRequestQueue(Context context) {
