@@ -26,7 +26,7 @@ public class RetrofitManager {
      * @return Retrofit single
      */
     public Retrofit getRetrofit() {
-        if (retrofit == null) {
+        if (retrofit == null) {   //  http://news-at.zhihu.com/api/4/news/
             retrofit = new Retrofit.Builder()
                     .baseUrl(BASE_URL)
                     .addCallAdapterFactory(RxJavaCallAdapterFactory.create())

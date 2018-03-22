@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RRVI.iml" filepath="$PROJECT_DIR$/RRVI.iml" />
+      <module fileurl="file://A:\1MyRetrofit\RxjavaRetrofitVolley\RRVI.iml" filepath="A:\1MyRetrofit\RxjavaRetrofitVolley\RRVI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RxjavaRetrofitVolley.iml" filepath="$PROJECT_DIR$/RxjavaRetrofitVolley.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://A:\1MyRetrofit\RxjavaRetrofitVolley\app\app.iml" filepath="A:\1MyRetrofit\RxjavaRetrofitVolley\app\app.iml" />
     </modules>
   </component>
 </project>
